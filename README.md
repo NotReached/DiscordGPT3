@@ -8,7 +8,7 @@ Put them in main.py
 ## Discord
 Create a discord bot [here](https://discord.com/developers/applications).
 
-You need to enable MESSAGE CONTENT INTENT in the "bot" section of the discord app and create a token.
+You need to enable MESSAGE CONTENT INTENT in the "bot" section of the discord app and create a token to put in the discord client of main.py
 
 ## Linux
 
