@@ -14,6 +14,8 @@ You need to enable MESSAGE CONTENT INTENT in the "bot" section of the discord ap
 
 > git clone git@github.com:NotReached/DiscordGPT3.git
 
+> python3 -m venv .venv && source .venv/bin/activate
+
 > pip install -r requirements.txt
 
 > python3 main.py
